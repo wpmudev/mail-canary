@@ -1,0 +1,12 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+*.zip
+mail-canary-data/
+
+# Blog drafts live outside this repo. They are marketing copy, not
+# project documentation, and the .docx files churn on every edit.
+*.docx
+Mail-Canary-Blog*
+Mail-Canary-Setup-Guide*
